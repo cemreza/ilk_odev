@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: ilk_odev
+=======
+name: ikinci_hafta_odev
+>>>>>>> e78ee3c (Ödev 2 eklendi)
 description: A simple command-line application.
 version: 1.0.0
 # repository: https://github.com/my_org/my_repo
